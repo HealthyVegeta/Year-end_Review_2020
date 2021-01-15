@@ -42,6 +42,7 @@
 <br>
 <br>
 <br>
+
 **2. C-PDFReader**
 
   - 한 일: 특정 고객사에서 이용하는 ActiveX를 만들어 제공하는 일
@@ -51,7 +52,10 @@
   - 느낀 점: C++에서 activeX를 구현하는 방법, 이 activeX를 다시 C#에서 import하여 ActiveX로 재배포하는 법 등을 알게됐으며 위의 dll들을 전부 패키징해서 exe 설치프로그램으로 배포하는법을 알게 됨.
 <br>
 <br><br>
-**3. XAM-Canvas**<br>
+
+**3. XAM-Canvas**
+
+<br>
 
 ![xam](/xam.png)
 
