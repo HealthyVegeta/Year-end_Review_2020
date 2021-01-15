@@ -51,8 +51,9 @@
   - 느낀 점: C++에서 activeX를 구현하는 방법, 이 activeX를 다시 C#에서 import하여 ActiveX로 재배포하는 법 등을 알게됐으며 위의 dll들을 전부 패키징해서 exe 설치프로그램으로 배포하는법을 알게 됨.
 <br>
 <br><br>
-**3. XAM-Canvas**
-![xam](/xam.png "")
+**3. XAM-Canvas**<br>
+
+![xam](/xam.png)
 
   - 한 일: 회의록 작성 및 회의 매니징 솔루션 프로토타입 구현
 
